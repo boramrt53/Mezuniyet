@@ -1,0 +1,2 @@
+0 Doğal Temiz Ortamlar
+1 Yapay Kirli Ortamlar

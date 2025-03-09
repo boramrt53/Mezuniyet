@@ -1,0 +1,45 @@
+ul {
+    color: #0b0a0a; /* Başlık rengi */
+    font-size: 18px; /* Başlık yazı tipi boyutu */
+    font-family: 'Inter', serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+body {
+    color: #121214; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: 'Inter', serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+h1 {
+    color: #060606; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: 'Inter', serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+
+h2 {
+    color: #060606; /* Başlık rengi */
+    font-size: 20px; /* Başlık yazı tipi boyutu */
+    font-family: 'Inter', serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+
+h3 {
+    color: #060606; /* Başlık rengi */
+    font-size: 18px; /* Başlık yazı tipi boyutu */
+    font-family: 'Inter', serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+
+
+p {
+    color: #0d0400; /* Başlık rengi */
+    font-size: 18px; /* Başlık yazı tipi boyutu */
+    font-family: 'Inter', serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+
+
+
+
+
